@@ -109,7 +109,7 @@ ul li{
 }
 
 .section_2 {
-	background-image: url(/images/Homepage-Model-3-Desktop-NA.avif);
+	background-image: url(images/Homepage-Model-3-Desktop-NA.avif);
 	position: relative;
 }
 .text_box{
@@ -218,11 +218,11 @@ ul li{
     z-index: 1;
 }
 .section_3 {
-	background-image: url(/images/Homepage-Model-Y-Global-Desktop2.avif);
+	background-image: url(images/Homepage-Model-Y-Global-Desktop2.avif);
 	position: relative;
 }
 .section_4 {
-	background-image: url(/images/4.avif);
+	background-image: url(images/4.avif);
 	position: relative;
 }
 .explore{
@@ -236,23 +236,23 @@ ul li{
 	border-bottom: 3px solid black;
 }
 .section_5 {
-	background-image: url(/images/5.avif);
+	background-image: url(images/5.avif);
 	position: relative;
 }
 .section_6 {
-	background-image: url(/images/solorpanel.avif);
+	background-image: url(images/solorpanel.avif);
 	position: relative;
 }
 .section_7 {
-	background-image: url(/images/Homepage-SolarRoof-Desktop-Global.avif);
+	background-image: url(images/Homepage-SolarRoof-Desktop-Global.avif);
 	position: relative;
 }
 .section_8 {
-	background-image: url(/images/powerwalls.avif);
+	background-image: url(images/powerwalls.avif);
 	position: relative;
 }
 .section_9 {
-	background-image: url(/images/acc.avif);
+	background-image: url(images/acc.avif);
 	position: relative;
 }
 
